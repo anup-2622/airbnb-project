@@ -1,0 +1,9 @@
+sources:
+  - name: staging
+    database: AIRBNB_PROJECT  
+    schema: STAGING  
+    tables:
+      - name: listings
+      - name: bookings
+      - name: hosts
+      
